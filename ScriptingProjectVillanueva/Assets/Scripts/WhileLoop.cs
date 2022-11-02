@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Loops : MonoBehaviour
+public class WhileLoop : MonoBehaviour
 {
     int cupsInTheSink = 4;
 
